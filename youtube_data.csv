@@ -1,0 +1,101 @@
+VideoID,CommentID,TextContent,SentimentScore,Likes,Shares,Views,Timestamp,UserID,UserAge,UserLocation,UserPoliticalAffiliation
+V001,C001,"More facts, less opinions, please.",-0.87,12,17,971860,3/2/2025 14:35,U573,65,India,Supporter
+V009,C002,Where are the policies?,-0.7,94,36,8937,2/28/2025 19:24,U388,34,Australia,Neutral
+V008,C003,Great speech! Very inspiring.,0.58,315,4,808460,3/1/2025 18:29,U675,56,Germany,Neutral
+V006,C004,This is very misleading.,-0.31,2,34,14815,3/1/2025 7:10,U903,54,USA,Opposed
+V006,C005,Biased media coverage.,0.67,477,0,678386,3/3/2025 22:06,U572,38,USA,Neutral
+V005,C006,Biased media coverage.,0.3,354,12,371158,2/28/2025 15:06,U754,34,Canada,Opposed
+V005,C007,Strong leadership!,-0.6,336,8,410727,3/2/2025 23:21,U871,44,USA,Neutral
+V007,C008,"Fake news, don't believe this.",0.09,103,16,464859,3/2/2025 7:04,U402,60,Canada,Opposed
+V010,C009,I need more information before deciding.,0.13,126,41,616559,3/1/2025 23:11,U883,24,Canada,Opposed
+V005,C010,Biased media coverage.,0.37,407,49,611386,3/4/2025 6:47,U363,61,Germany,Opposed
+V003,C011,Excellent vision for the future.,0.74,0,10,220381,3/5/2025 22:34,U958,20,UK,Neutral
+V002,C012,"Fake news, don't believe this.",-0.04,177,10,984167,3/3/2025 2:01,U983,41,Canada,Neutral
+V007,C013,This candidate is a joke.,0.29,234,32,327427,3/5/2025 4:56,U584,26,USA,Neutral
+V007,C014,Love this message!,0.34,338,5,864834,3/2/2025 13:05,U280,43,Germany,Neutral
+V003,C015,This debate was interesting.,0.66,110,3,4143,3/2/2025 5:06,U763,42,Australia,Neutral
+V009,C016,This is very misleading.,-0.81,440,20,507793,3/5/2025 22:26,U938,32,Australia,Supporter
+V002,C017,Not convinced yet.,-0.05,46,33,40574,2/28/2025 7:04,U534,21,India,Neutral
+V002,C018,Best campaign ever!,0.2,170,14,845171,3/1/2025 13:13,U866,22,Australia,Opposed
+V002,C019,This debate was interesting.,-0.48,398,10,661051,2/27/2025 20:39,U179,63,Australia,Opposed
+V010,C020,This candidate is a joke.,0.07,82,23,723563,3/3/2025 21:57,U937,31,Canada,Supporter
+V007,C021,This person is not fit to lead.,-0.28,212,1,700674,3/2/2025 23:40,U653,39,Germany,Neutral
+V004,C022,Where are the policies?,0.86,21,28,440463,3/2/2025 7:05,U591,46,Germany,Opposed
+V004,C023,Well articulated points!,-0.4,288,25,630454,2/28/2025 16:40,U984,19,India,Supporter
+V009,C024,"Fake news, don't believe this.",-0.92,73,31,105297,3/3/2025 17:30,U665,60,USA,Opposed
+V008,C025,This debate was interesting.,0.83,2,2,736020,3/2/2025 17:36,U105,23,UK,Supporter
+V001,C026,Would like to see more engagement.,0.25,50,1,633373,3/4/2025 2:57,U397,60,Germany,Opposed
+V008,C027,Best campaign ever!,0.31,18,3,1571,2/27/2025 17:45,U918,31,India,Neutral
+V001,C028,Strong leadership!,0.3,281,25,192300,2/28/2025 15:23,U846,54,India,Supporter
+V004,C029,Best campaign ever!,-0.99,459,50,139664,3/2/2025 8:17,U649,60,USA,Neutral
+V008,C030,I need more information before deciding.,-0.71,480,41,893963,3/1/2025 17:56,U724,44,Australia,Opposed
+V004,C031,Would like to see more engagement.,0.62,295,27,682940,3/4/2025 17:28,U630,30,USA,Opposed
+V006,C032,This debate was interesting.,-0.72,485,27,367655,3/3/2025 19:55,U990,40,Australia,Neutral
+V002,C033,Not convinced yet.,0.45,311,42,829207,3/6/2025 5:28,U951,23,Australia,Opposed
+V006,C034,Biased media coverage.,0.88,330,20,974247,3/4/2025 10:58,U348,22,Canada,Supporter
+V005,C035,I have concerns about this.,-0.57,476,33,545705,3/3/2025 5:15,U732,50,Germany,Supporter
+V001,C036,I support this wholeheartedly.,0.71,69,2,602889,3/3/2025 20:55,U741,51,Australia,Opposed
+V006,C037,Disappointed in this stance.,0.95,102,15,326199,2/28/2025 11:26,U358,20,USA,Opposed
+V006,C038,I disagree with everything.,-0.71,57,41,622907,3/4/2025 12:36,U775,57,Germany,Supporter
+V003,C039,This is very misleading.,0.35,169,43,490703,2/27/2025 16:32,U777,23,UK,Opposed
+V002,C040,Very promising ideas.,-0.46,335,39,207332,3/2/2025 6:00,U603,25,UK,Neutral
+V009,C041,Great speech! Very inspiring.,-0.86,272,41,663823,3/5/2025 23:55,U331,42,India,Supporter
+V008,C042,Great speech! Very inspiring.,-0.36,134,15,740287,3/2/2025 0:51,U575,46,Canada,Opposed
+V004,C043,Stop spreading misinformation.,-0.1,347,34,759519,2/28/2025 19:32,U982,20,USA,Supporter
+V001,C044,Would like to see more engagement.,0.38,169,9,253845,3/5/2025 6:11,U605,25,Australia,Opposed
+V006,C045,This candidate is a joke.,-0.42,296,4,348474,2/28/2025 14:05,U482,19,India,Neutral
+V005,C046,Biased media coverage.,-0.26,210,35,571457,3/1/2025 9:01,U227,55,Germany,Neutral
+V009,C047,"More facts, less opinions, please.",-0.67,373,7,68437,2/27/2025 14:31,U203,59,Germany,Neutral
+V007,C048,Great speech! Very inspiring.,0.38,132,39,643341,2/28/2025 1:00,U218,25,Kenya,Supporter
+V004,C049,I need more information before deciding.,0.37,231,49,245402,3/3/2025 9:23,U955,60,USA,Neutral
+V001,C050,Great speech! Very inspiring.,0.1,396,49,584978,3/5/2025 0:00,U869,34,Kenya,Neutral
+V010,C051,Stop spreading misinformation.,0.79,101,5,412460,3/3/2025 7:41,U539,27,Australia,Neutral
+V005,C052,Would like to see more engagement.,0.33,258,7,224547,3/6/2025 9:50,U574,32,Germany,Supporter
+V003,C053,I totally support this policy!,-0.5,380,46,3027,3/6/2025 7:05,U823,57,Australia,Supporter
+V010,C054,This debate was interesting.,-0.81,477,35,696019,3/1/2025 20:14,U841,42,Kenya,Neutral
+V001,C055,This person is not fit to lead.,0.5,500,41,720639,3/4/2025 7:14,U608,55,UK,Neutral
+V005,C056,"More facts, less opinions, please.",-0.87,327,26,909626,3/6/2025 2:33,U924,36,UK,Neutral
+V007,C057,"More facts, less opinions, please.",-0.05,253,32,69247,3/3/2025 1:33,U893,57,Germany,Neutral
+V007,C058,This candidate is a joke.,0.86,480,14,852717,3/3/2025 3:25,U190,53,USA,Neutral
+V010,C059,Best campaign ever!,0.68,31,3,539227,3/6/2025 10:19,U859,31,Canada,Neutral
+V009,C060,This debate was interesting.,-0.74,190,32,28285,3/5/2025 0:32,U752,43,UK,Neutral
+V009,C061,I need more information before deciding.,-0.16,306,22,143671,3/4/2025 10:06,U738,64,India,Opposed
+V003,C062,Best campaign ever!,0.03,476,14,641381,3/3/2025 22:19,U279,19,India,Supporter
+V002,C063,Love this message!,0.65,98,3,984518,2/28/2025 11:35,U981,63,Kenya,Opposed
+V002,C064,Best campaign ever!,-0.61,223,16,981427,2/27/2025 16:02,U687,60,Germany,Supporter
+V004,C065,Well articulated points!,-0.18,32,28,685682,3/6/2025 2:50,U744,28,Australia,Opposed
+V002,C066,I support this wholeheartedly.,0.18,384,29,76441,3/2/2025 22:48,U732,19,Kenya,Neutral
+V007,C067,Stop spreading misinformation.,0.19,422,40,293922,3/1/2025 4:01,U218,62,Canada,Neutral
+V009,C068,I disagree with everything.,-0.6,205,14,829292,3/2/2025 4:19,U978,37,Germany,Opposed
+V008,C069,This is very misleading.,0.97,291,46,653749,3/1/2025 6:01,U483,38,USA,Opposed
+V006,C070,Excellent vision for the future.,0.81,249,43,943800,3/4/2025 19:24,U827,43,Australia,Opposed
+V004,C071,I have concerns about this.,-0.32,11,9,204962,2/28/2025 13:39,U403,26,India,Supporter
+V001,C072,Would like to see more engagement.,0.85,220,33,565837,3/1/2025 0:38,U677,34,UK,Neutral
+V005,C073,I support this wholeheartedly.,0.62,298,25,11123,3/4/2025 9:37,U771,52,Canada,Supporter
+V005,C074,I need more information before deciding.,0.25,118,41,586223,3/2/2025 13:48,U967,47,Canada,Supporter
+V001,C075,"More facts, less opinions, please.",-0.14,133,35,869513,3/3/2025 21:52,U225,57,USA,Opposed
+V010,C076,Where are the policies?,-0.29,148,41,104130,3/1/2025 0:39,U301,25,UK,Neutral
+V003,C077,Would like to see more engagement.,-0.19,365,20,613275,3/3/2025 0:26,U795,42,USA,Neutral
+V003,C078,This is very misleading.,-0.17,218,9,757460,3/6/2025 11:51,U745,61,India,Supporter
+V002,C079,Disappointed in this stance.,0.99,227,27,745417,3/2/2025 11:12,U365,65,USA,Neutral
+V002,C080,This person is not fit to lead.,-0.71,216,0,167864,3/1/2025 9:30,U588,56,USA,Supporter
+V009,C081,This is very misleading.,0.43,460,31,339956,3/5/2025 7:27,U625,37,India,Supporter
+V004,C082,Excellent vision for the future.,0.66,421,4,143732,3/5/2025 3:30,U893,57,UK,Neutral
+V003,C083,Very promising ideas.,-0.7,141,10,645918,3/4/2025 9:29,U590,65,Canada,Opposed
+V002,C084,I support this wholeheartedly.,0.62,226,47,77103,2/28/2025 10:16,U607,31,Canada,Supporter
+V008,C085,Best campaign ever!,-0.27,82,16,103883,3/1/2025 19:48,U406,42,Australia,Opposed
+V006,C086,I support this wholeheartedly.,-0.41,287,4,570323,3/2/2025 5:07,U470,40,Canada,Neutral
+V004,C087,I need more information before deciding.,0.06,265,45,994530,3/5/2025 12:51,U614,60,Canada,Opposed
+V001,C088,Great speech! Very inspiring.,-0.06,98,49,590465,2/28/2025 23:22,U778,18,Kenya,Opposed
+V003,C089,Not convinced yet.,0.84,491,42,296714,2/28/2025 6:36,U250,47,Germany,Supporter
+V009,C090,"More facts, less opinions, please.",-0.14,127,2,465904,3/2/2025 20:24,U479,29,Kenya,Opposed
+V001,C091,This candidate is a joke.,-0.56,269,10,804117,2/28/2025 7:39,U623,31,India,Opposed
+V004,C092,Would like to see more engagement.,0.24,389,31,31055,2/28/2025 4:19,U443,34,USA,Neutral
+V004,C093,Excellent vision for the future.,-0.45,120,20,610270,3/2/2025 21:20,U351,42,UK,Neutral
+V004,C094,"More facts, less opinions, please.",-0.6,198,24,410346,3/2/2025 21:21,U879,31,Canada,Supporter
+V006,C095,Stop spreading misinformation.,0.26,497,42,640014,2/28/2025 10:02,U400,36,Germany,Opposed
+V004,C096,This person is not fit to lead.,0.61,259,38,82120,3/3/2025 15:52,U180,33,Australia,Opposed
+V003,C097,Very promising ideas.,-0.15,325,45,236524,3/2/2025 1:39,U390,55,Canada,Opposed
+V005,C098,Great speech! Very inspiring.,-0.34,369,2,248316,3/3/2025 13:46,U968,33,Germany,Opposed
+V004,C099,Not convinced yet.,0.78,244,2,238767,3/1/2025 19:53,U352,28,USA,Opposed
+V007,C100,This is very misleading.,0.29,311,33,757876,3/5/2025 14:38,U782,39,Kenya,Supporter
